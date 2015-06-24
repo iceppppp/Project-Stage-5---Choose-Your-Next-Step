@@ -1,0 +1,139 @@
+
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #b7c3e8;
+}
+
+body {
+  background-color:rgb(0,0,0);
+ background-image:url(http://www.zingerbugimages.com/backgrounds/seamless-sky-with-clouds.jpg);
+    padding: 20px 10px;
+  font-family: Helvetica;
+  max-width: 2000px;
+  margin: 0 auto;
+  font-size: 1.6em;
+}
+h1 {
+  text-align: center;
+  color: #294860;
+}
+h2 {
+  font-family: Helvetica;
+  margin: 10px;
+  padding: 10px;
+  font-size: 1.4em;
+}
+h3 {
+  color: #294860; 
+}
+h4 {
+  color: black; 
+}
+
+p {
+  margin: 10px 0;
+}
+
+em {
+  font-weight: 600;
+}
+
+.lesson-border{
+  color: white;
+  background-color: #294860;
+  border-radius: 20px;
+     margin: 10px;
+    padding: 10px;
+}
+.concept {  
+  background-color: #DFEAF1;
+  padding: 4px;
+  margin: 10px;
+  border-radius: 5px;
+  color: black;
+}
+.concept-title {
+  text-align: center;
+}
+.concept-description {
+  font-weight: lighter;
+  margin: 6px;
+   font-size: 1em;
+}
+.italic {
+  font-style: italic;
+}
+.bold {
+  font-weight: bold;
+} 
+
+span.code {
+    font-family: Courier;
+    background-color: #BBBBBB;
+    padding: 2px 4px;
+    font-weight: bold;
+}
+
+
+div.code-block {
+    font-family: Courier;
+    background-color: #BBBBBB;
+    padding: 2px 4px;
+    display: inline-block;
+}
+
+span.indent {
+    margin-left: 38px;
+}
+
+.form-submission {
+  padding: 0.1em;
+}
+
+.post {
+  background-color: #DFEAF1;
+  border-radius: 8px;
+}
+
+.post-user {
+  background-color: darkgrey;
+}
+
+.post-content {
+  background-color: #DFEAF1;
+  border-radius: 15px;
+  padding: 0.1em;
+}
+
+.bottom-border {
+  border-bottom: 1px solid black;
+}
+
+.post-comment {
+  padding: 0.1em;
+}
+
+  .next-post {
+    text-align: center;
+    margin: 0.1em;
+    padding: 0.1em;
+  }
+
+  .form-submission {
+    padding: 0.1em;
+  }
+
+  .form-submission input[type="submit"] {
+    margin-top: 0.1em;
+    width: 15%;
+  }
+
+  .form-submission {
+    padding: 0.1em;
+  }
